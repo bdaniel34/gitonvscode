@@ -27,7 +27,7 @@ export default function App() {
     // Add more Pokémon objects as needed
     {
       id: 4,
-      name: "Venusaur",
+      name: "sdgrege",
       types: ["grass", "poison"],
       sprite:
         "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
